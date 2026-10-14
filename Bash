@@ -1,0 +1,1 @@
+echo -e "data/bronze/\ndata/silver/\ndata/gold/\ndata/raw/*.csv\n__pycache__/\n*.pyc" > .gitignore
